@@ -1,0 +1,14 @@
+{
+  "creation": "Creation",
+
+  "home": "Home {{extra}}",
+  "cashier": "Cashier {{extra}}",
+  "customers": "Pelanggan {{extra}}",
+  "purchase-inventories": "Purchase Inventory {{extra}}",
+  "inventories": "Inventory {{extra}}",
+  "suppliers": "Supplier {{extra}}",
+  "transactions": "Transaction {{extra}}",
+  "users": "User {{extra}}",
+
+  "change-password": "Change Password {{extra}}"
+}

@@ -1,0 +1,20 @@
+{
+  "data_not_fulfilled_error": "Data tidak terisi penuh",
+  "required": "Kolom harus diisi",
+  "wrong_credentials": "Nama pengguna / kata sandi Anda tidak ditemukan.",
+  "unauthorized_action": "Tindakan Tidak Sah",
+  "must_not_be_before_today": "\"{{extra}}\" tidak boleh sebelum hari ini",
+  "must_be_after": "\"{{first}}\" harus setelah \"{{second}}\"",
+  "password_confirmation_must_match": "Kata sandi konfirmasi harus sama dengan kata sandi",
+  "enter_correct_url": "Isi url yang benar!",
+  "no_result_found": "Tidak ada hasil",
+  "number_only": "Hanya Nomor",
+  "load_failed_title": "Konten ini gagal dimuat",
+  "load_failed_message": "Muat Ulang",
+  "no_trainer_with_overlapping_start_time": "Seorang pelatih tidak diperbolehkan memiliki waktu yang saling timpa pada hari yang sama",
+  "no_new_no_extend": "Paket keanggotaan minimal harus ada harga baru dan harga perpanjangan.",
+  "phone_validation": "Harap menggunakan nomor hp yang benar",
+
+  "firebase/invalid-phone-number": "Nomor yang disediakan bukan nomor telepon valid.",
+  "firebase/invalid-verification-code": "OTP tidak sama dengan OTP yang dikirim ke nomor telepon yang disediakan."
+}

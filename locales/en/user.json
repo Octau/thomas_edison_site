@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "logout": "Log Out",
+  "password_confirmation": "Password Confirmation",
+  "current_password": "Current Password",
+  "new_password": "New Password",
+
+  "access_all_account": "Access All Account",
+  "employee_empty": "Empty Data",
+  "employee_name": "Employee Name",
+  "employee_information": "Employee Information",
+  "change_password": "Change Password",
+
+  "export": "Export",
+
+  "viewer": "Viewer",
+  "viewer_desc": "Access to view list and index",
+  "editor": "Editor",
+  "editor_desc": "Access to create, update, and delete",
+  "manager": "Manager",
+  "manager_desc": "Full access to all action"
+}

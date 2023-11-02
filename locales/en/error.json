@@ -1,0 +1,20 @@
+{
+  "data_not_fulfilled_error": "The data is not fully filled",
+  "required": "The column must be filled",
+  "wrong_credentials": "Your username / password was not found.",
+  "unauthorized_action": "Unauthorized Action",
+  "must_not_be_before_today": "\"{{extra}}\" must not be before today",
+  "must_be_after": "\"{{first}}\" must be after \"{{second}}\"",
+  "password_confirmation_must_match": "Confirmation password must match password",
+  "enter_correct_url": "Enter correct url!",
+  "no_result_found": "No result found",
+  "number_only": "Number only",
+  "load_failed_title": "This content failed to load",
+  "load_failed_message": "Please reload",
+  "no_trainer_with_overlapping_start_time": "A trainer shouldn't have overlapping schedule times in the same day.",
+  "no_new_no_extend": "A membership package should at least have a new or extend price",
+  "phone_validation": "Please use the correct phone number",
+
+  "firebase/invalid-phone-number": "The provided number is not a valid phone number.",
+  "firebase/invalid-verification-code": "The OTP does not match the OTP sent to the provided phone number."
+}

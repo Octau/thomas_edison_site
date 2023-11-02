@@ -1,0 +1,77 @@
+[
+  {
+    "items": [
+      {
+        "inventory": {
+          "id": "ac9ec343e09dd760",
+          "name": "Test",
+          "price": 900
+        },
+        "qty": 3
+      },
+      {
+        "inventory": {
+          "id": "a664352e33f3bba1",
+          "name": "Test 2",
+          "price": 1000
+        },
+        "qty": 5
+      }
+    ],
+    "totalPrice": 7700,
+    "id": "db1939c50051ba60",
+    "code": "269603",
+    "createdAt": "2023-06-18T12:04:03.546Z",
+    "total": 7700
+  },
+  {
+    "items": [
+      {
+        "inventory": {
+          "id": "a664352e33f3bba1",
+          "name": "Test 2",
+          "price": 1000
+        },
+        "qty": 80
+      },
+      {
+        "inventory": {
+          "id": "ac9ec343e09dd760",
+          "name": "Test",
+          "price": 900
+        },
+        "qty": 7
+      }
+    ],
+    "totalPrice": 86300,
+    "id": "0717aafd1efed482",
+    "code": "4D928D",
+    "createdAt": "2023-06-18T12:04:16.757Z",
+    "total": 86300
+  },
+  {
+    "items": [
+      {
+        "inventory": {
+          "id": "ac9ec343e09dd760",
+          "name": "Test",
+          "price": 900
+        },
+        "qty": 14
+      },
+      {
+        "inventory": {
+          "id": "a664352e33f3bba1",
+          "name": "Test 2",
+          "price": 1000
+        },
+        "qty": 9
+      }
+    ],
+    "totalPrice": 21600,
+    "id": "f8cb237c1b22bb65",
+    "code": "784947",
+    "createdAt": "2023-06-18T12:04:46.579Z",
+    "total": 21600
+  }
+]

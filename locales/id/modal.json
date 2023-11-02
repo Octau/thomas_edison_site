@@ -1,0 +1,12 @@
+{
+  "delete_confirmation": "Konfirmasi Hapus",
+  "confirmation_text": "Apakah anda yakin terhadap perubahan ini?",
+  "confirmation_delete_text": "Apakah anda yakin ingin menghapus data ini?",
+  "successfully_deleted": "Berhasil dihapus",
+
+  "confirmation_void_text": "Apakah anda yakin ingin untuk melakukan pembatalan?",
+
+  "confirmation_logout": "Apakah anda yakin ingin keluar dari akun ini?",
+
+  "change_password_warning": "Anda akan dikeluarkan dari akun setelah mengganti kata sandi. Mohon masuk kembali dengan kata sandi baru anda."
+}

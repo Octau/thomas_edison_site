@@ -1,0 +1,107 @@
+.container {
+  z-index: 8000;
+  background-color: white;
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.optionItem {
+  padding: 4px 6px;
+  margin: 4px 4px !important;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.optionItem:hover {
+  background-color: #84A5FB;
+  color: #FFFFFF;
+}
+
+.title {
+  text-align: center;
+  padding: 8px 10px;
+  margin: 0;
+  text-transform: capitalize;
+  color: #b2b2b2;
+
+}
+
+.popperContainer {
+  z-index: 100;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.formContent {
+  /* height: 320px; */
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 8px;
+}
+
+.submitButton {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  min-height: 40px;
+}
+
+.center {
+  text-align: center;
+}
+
+.calendar .button[class*="dayIsToday"] {
+  background: none !important;
+  color: initial;
+}
+
+.filterContainer {
+  padding: 0px 0px;
+}
+
+.filterBaseContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.filterItemContainer {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.filterItemContent {
+  padding: 6px 6px 6px 12px;
+  cursor: pointer;
+}
+
+.filterItemContent:hover {
+  background-color: rgb(243, 242, 241);
+}
+
+.value {
+  font-weight: 600;
+}
+
+.filterHeader {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #e9e9e9;
+
+}

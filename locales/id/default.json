@@ -1,0 +1,15 @@
+{
+  "create_next_app": "Buat Next App",
+  "welcome_to_nextjs": "Selamat Datang di <a>Next.js!</a>",
+  "get_started_by_editing": "Mulailah dengan mengedit <code>src/pages/index.tsx</code>",
+  "documentation": "Dokumentasi",
+  "documentation_text": "Temukan informasi mendalam tentang fitur dan API Next.js.",
+  "learn": "Pelajari",
+  "learn_text": "Pelajari tentang Next.js dalam kursus interaktif dengan kuis!",
+  "examples": "Contoh",
+  "examples_text": "Temukan dan terapkan contoh boilerplate proyek Next.js.",
+  "deploy": "Deploy",
+  "deploy_text": "Deploy situs Next.js Anda secara instan ke URL publik dengan Vercel.",
+  "powered_by": "Dipersembahkan oleh",
+  "change_language": "Ganti Bahasa"
+}

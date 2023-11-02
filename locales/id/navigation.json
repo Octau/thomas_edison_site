@@ -1,0 +1,14 @@
+{
+  "creation": "Baru",
+
+  "home": "Beranda {{extra}}",
+  "cashier": "Kasir {{extra}}",
+  "customers": "Pelanggan {{extra}}",
+  "purchase-inventories": "Pembelian Barang {{extra}}",
+  "inventories": "Inventaris {{extra}}",
+  "suppliers": "Supplier {{extra}}",
+  "transactions": "Transaksi {{extra}}",
+  "users": "User {{extra}}",
+
+  "change-password": "Ganti Kata Sandi {{extra}}"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "buyPrice": 800,
+    "sellPrice": 900,
+    "minSellPrice": 850,
+    "name": "Test",
+    "qty": {
+      "amount": 100,
+      "type": "pieces"
+    },
+    "id": "ac9ec343e09dd760"
+  },
+  {
+    "buyPrice": 900,
+    "sellPrice": 1000,
+    "minSellPrice": 990,
+    "name": "Test 2",
+    "qty": {
+      "amount": 200,
+      "type": "pieces"
+    },
+    "id": "a664352e33f3bba1"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "cashier": "Cashier",
+  "customer": "Customer",
+  "inventory": "Inventory",
+  "supplier": "Supplier",
+  "transaction": "Transaction",
+  "purchase_inventory": "Purchase Inventory",
+  "user": "User"
+}

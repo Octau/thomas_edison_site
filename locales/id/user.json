@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "password_confirmation": "Konfirmasi Kata Sandi",
+  "current_password": "Kata Sandi Sekarang",
+  "new_password": "Kata Sandi Baru",
+
+  "access_all_account": "Akses Semua Akun",
+  "employee_empty": "Tidak ada data",
+  "employee_name": "Nama Karyawan",
+  "employee_information": "Informasi Karyawan",
+  "change_password": "Ubah Kata Sandi",
+
+  "export": "Ekspor",
+
+  "viewer": "Dapat Melihat",
+  "viewer_desc": "Akses untuk melihat daftar dan indeks",
+  "editor": "Dapat Mengubah",
+  "editor_desc": "Akses untuk membuat, mengubah, dan menghapus",
+  "manager": "Akses Penuh",
+  "manager_desc": "Akses penuh ke semua aksi"
+}

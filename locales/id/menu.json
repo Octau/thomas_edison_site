@@ -1,0 +1,10 @@
+{
+  "home": "Beranda",
+  "customer": "Pelanggan",
+  "cashier": "Kasir",
+  "inventory": "Inventaris",
+  "supplier": "Supplier",
+  "transaction": "Transaksi",
+  "purchase_inventory": "Pembelian Barang",
+  "user": "User"
+}
